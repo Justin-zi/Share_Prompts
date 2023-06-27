@@ -1,1 +1,1 @@
-# Share_Prompts
+# A NextJS project
